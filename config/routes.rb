@@ -7,4 +7,5 @@ Rails.application.routes.draw do
   get '/consumer', to: 'static_pages#consumer'
   get '/contact', to: 'static_pages#contact'
   get '/signup', to: 'users#new'
+  resources :users
 end
