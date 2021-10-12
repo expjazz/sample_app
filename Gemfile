@@ -6,7 +6,7 @@ gem 'bootstrap', '~> 4.4.1'
 
 gem 'rails',      '6.0.2.2'
 gem 'bcrypt',     '3.1.13'
-gem 'puma',       '4.3.3'
+gem 'puma',       '5.5.1'
 gem 'sass-rails', '5.1.0'
 gem 'webpacker',  '4.0.7'
 gem 'turbolinks', '5.2.0'
